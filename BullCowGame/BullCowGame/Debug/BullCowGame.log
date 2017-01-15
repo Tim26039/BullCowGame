@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  FBullCowGame.cpp
+  Generating Code...
+c:\users\timen\desktop\unrealcourse\c++\bullcowgame\bullcowgame\fbullcowgame.cpp(141): warning C4715: 'FBullCowGame::Islower': not all control paths return a value
+c:\users\timen\desktop\unrealcourse\c++\bullcowgame\bullcowgame\fbullcowgame.cpp(130): warning C4715: 'FBullCowGame::IsIsogram': not all control paths return a value
+c:\users\timen\desktop\unrealcourse\c++\bullcowgame\bullcowgame\main.cpp(81): warning C4715: 'GetGuess': not all control paths return a value
+  BullCowGame.vcxproj -> C:\Users\timen\Desktop\UnrealCourse\c++\BullCowGame\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> C:\Users\timen\Desktop\UnrealCourse\c++\BullCowGame\Debug\BullCowGame.pdb (Full PDB)
